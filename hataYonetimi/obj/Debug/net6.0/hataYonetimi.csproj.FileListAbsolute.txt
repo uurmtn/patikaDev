@@ -1,0 +1,15 @@
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\hataYonetimi.exe
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\hataYonetimi.deps.json
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\hataYonetimi.runtimeconfig.json
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\hataYonetimi.dll
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\ref\hataYonetimi.dll
+U:\patikaDev\hataYonetimi\bin\Debug\net6.0\hataYonetimi.pdb
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.csproj.AssemblyReference.cache
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.AssemblyInfoInputs.cache
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.AssemblyInfo.cs
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.csproj.CoreCompileInputs.cache
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.dll
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\ref\hataYonetimi.dll
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.pdb
+U:\patikaDev\hataYonetimi\obj\Debug\net6.0\hataYonetimi.genruntimeconfig.cache
