@@ -1,0 +1,15 @@
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.exe
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.deps.json
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.runtimeconfig.json
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.dll
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\ref\tipDonusumleri.dll
+U:\patikaDev\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.pdb
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.csproj.AssemblyReference.cache
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.AssemblyInfoInputs.cache
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.AssemblyInfo.cs
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.csproj.CoreCompileInputs.cache
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.dll
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\ref\tipDonusumleri.dll
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.pdb
+U:\patikaDev\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.genruntimeconfig.cache
