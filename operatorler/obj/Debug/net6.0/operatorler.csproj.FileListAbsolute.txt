@@ -1,0 +1,15 @@
+U:\patikaDev\operatorler\bin\Debug\net6.0\operatorler.exe
+U:\patikaDev\operatorler\bin\Debug\net6.0\operatorler.deps.json
+U:\patikaDev\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+U:\patikaDev\operatorler\bin\Debug\net6.0\operatorler.dll
+U:\patikaDev\operatorler\bin\Debug\net6.0\ref\operatorler.dll
+U:\patikaDev\operatorler\bin\Debug\net6.0\operatorler.pdb
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.dll
+U:\patikaDev\operatorler\obj\Debug\net6.0\ref\operatorler.dll
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.pdb
+U:\patikaDev\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
