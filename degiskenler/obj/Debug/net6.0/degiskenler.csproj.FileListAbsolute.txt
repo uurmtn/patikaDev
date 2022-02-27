@@ -1,0 +1,15 @@
+U:\patikaDev\degiskenler\bin\Debug\net6.0\degiskenler.exe
+U:\patikaDev\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+U:\patikaDev\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+U:\patikaDev\degiskenler\bin\Debug\net6.0\degiskenler.dll
+U:\patikaDev\degiskenler\bin\Debug\net6.0\ref\degiskenler.dll
+U:\patikaDev\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.dll
+U:\patikaDev\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+U:\patikaDev\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache

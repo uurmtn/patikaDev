@@ -1,0 +1,15 @@
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\consoleProgramlama.exe
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\consoleProgramlama.deps.json
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\consoleProgramlama.runtimeconfig.json
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\consoleProgramlama.dll
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\ref\consoleProgramlama.dll
+U:\patikaDev\consoleProgramlama\bin\Debug\net6.0\consoleProgramlama.pdb
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.csproj.AssemblyReference.cache
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.AssemblyInfoInputs.cache
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.AssemblyInfo.cs
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.csproj.CoreCompileInputs.cache
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.dll
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\ref\consoleProgramlama.dll
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.pdb
+U:\patikaDev\consoleProgramlama\obj\Debug\net6.0\consoleProgramlama.genruntimeconfig.cache
