@@ -1,0 +1,15 @@
+U:\patikaDev\ifElse\bin\Debug\net6.0\ifElse.exe
+U:\patikaDev\ifElse\bin\Debug\net6.0\ifElse.deps.json
+U:\patikaDev\ifElse\bin\Debug\net6.0\ifElse.runtimeconfig.json
+U:\patikaDev\ifElse\bin\Debug\net6.0\ifElse.dll
+U:\patikaDev\ifElse\bin\Debug\net6.0\ref\ifElse.dll
+U:\patikaDev\ifElse\bin\Debug\net6.0\ifElse.pdb
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.csproj.AssemblyReference.cache
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfoInputs.cache
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfo.cs
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.csproj.CoreCompileInputs.cache
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.dll
+U:\patikaDev\ifElse\obj\Debug\net6.0\ref\ifElse.dll
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.pdb
+U:\patikaDev\ifElse\obj\Debug\net6.0\ifElse.genruntimeconfig.cache
