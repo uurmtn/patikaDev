@@ -1,0 +1,15 @@
+U:\patikaDev\loops\bin\Debug\net6.0\loops.exe
+U:\patikaDev\loops\bin\Debug\net6.0\loops.deps.json
+U:\patikaDev\loops\bin\Debug\net6.0\loops.runtimeconfig.json
+U:\patikaDev\loops\bin\Debug\net6.0\loops.dll
+U:\patikaDev\loops\bin\Debug\net6.0\ref\loops.dll
+U:\patikaDev\loops\bin\Debug\net6.0\loops.pdb
+U:\patikaDev\loops\obj\Debug\net6.0\loops.csproj.AssemblyReference.cache
+U:\patikaDev\loops\obj\Debug\net6.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\loops\obj\Debug\net6.0\loops.AssemblyInfoInputs.cache
+U:\patikaDev\loops\obj\Debug\net6.0\loops.AssemblyInfo.cs
+U:\patikaDev\loops\obj\Debug\net6.0\loops.csproj.CoreCompileInputs.cache
+U:\patikaDev\loops\obj\Debug\net6.0\loops.dll
+U:\patikaDev\loops\obj\Debug\net6.0\ref\loops.dll
+U:\patikaDev\loops\obj\Debug\net6.0\loops.pdb
+U:\patikaDev\loops\obj\Debug\net6.0\loops.genruntimeconfig.cache
