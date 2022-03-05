@@ -21,7 +21,7 @@ namespace tipDonusumleri
             float i = h;
             Console.WriteLine("i: " + i);
 
-            string e = "Uğut";
+            string e = "Uğur";
             char f = 'M';
             object g = e + f + d;
             Console.WriteLine("g:" + g);
