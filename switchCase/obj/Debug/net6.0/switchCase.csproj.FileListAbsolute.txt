@@ -1,0 +1,15 @@
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.csproj.AssemblyReference.cache
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfoInputs.cache
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.AssemblyInfo.cs
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.csproj.CoreCompileInputs.cache
+U:\patikaDev\switchCase\bin\Debug\net6.0\switchCase.exe
+U:\patikaDev\switchCase\bin\Debug\net6.0\switchCase.deps.json
+U:\patikaDev\switchCase\bin\Debug\net6.0\switchCase.runtimeconfig.json
+U:\patikaDev\switchCase\bin\Debug\net6.0\switchCase.dll
+U:\patikaDev\switchCase\bin\Debug\net6.0\ref\switchCase.dll
+U:\patikaDev\switchCase\bin\Debug\net6.0\switchCase.pdb
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.dll
+U:\patikaDev\switchCase\obj\Debug\net6.0\ref\switchCase.dll
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.pdb
+U:\patikaDev\switchCase\obj\Debug\net6.0\switchCase.genruntimeconfig.cache
