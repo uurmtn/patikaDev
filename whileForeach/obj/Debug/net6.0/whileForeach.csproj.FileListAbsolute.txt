@@ -1,0 +1,15 @@
+U:\patikaDev\whileForeach\bin\Debug\net6.0\whileForeach.exe
+U:\patikaDev\whileForeach\bin\Debug\net6.0\whileForeach.deps.json
+U:\patikaDev\whileForeach\bin\Debug\net6.0\whileForeach.runtimeconfig.json
+U:\patikaDev\whileForeach\bin\Debug\net6.0\whileForeach.dll
+U:\patikaDev\whileForeach\bin\Debug\net6.0\ref\whileForeach.dll
+U:\patikaDev\whileForeach\bin\Debug\net6.0\whileForeach.pdb
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.csproj.AssemblyReference.cache
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.AssemblyInfoInputs.cache
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.AssemblyInfo.cs
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.csproj.CoreCompileInputs.cache
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.dll
+U:\patikaDev\whileForeach\obj\Debug\net6.0\ref\whileForeach.dll
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.pdb
+U:\patikaDev\whileForeach\obj\Debug\net6.0\whileForeach.genruntimeconfig.cache
