@@ -1,0 +1,15 @@
+U:\patikaDev\arrays\bin\Debug\net6.0\arrays.exe
+U:\patikaDev\arrays\bin\Debug\net6.0\arrays.deps.json
+U:\patikaDev\arrays\bin\Debug\net6.0\arrays.runtimeconfig.json
+U:\patikaDev\arrays\bin\Debug\net6.0\arrays.dll
+U:\patikaDev\arrays\bin\Debug\net6.0\ref\arrays.dll
+U:\patikaDev\arrays\bin\Debug\net6.0\arrays.pdb
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.csproj.AssemblyReference.cache
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.AssemblyInfoInputs.cache
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.AssemblyInfo.cs
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.csproj.CoreCompileInputs.cache
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.dll
+U:\patikaDev\arrays\obj\Debug\net6.0\ref\arrays.dll
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.pdb
+U:\patikaDev\arrays\obj\Debug\net6.0\arrays.genruntimeconfig.cache
