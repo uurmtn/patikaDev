@@ -1,0 +1,15 @@
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\arraysTwo.exe
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\arraysTwo.deps.json
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\arraysTwo.runtimeconfig.json
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\arraysTwo.dll
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\ref\arraysTwo.dll
+U:\patikaDev\arraysTwo\bin\Debug\net6.0\arraysTwo.pdb
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.csproj.AssemblyReference.cache
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.AssemblyInfoInputs.cache
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.AssemblyInfo.cs
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.csproj.CoreCompileInputs.cache
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.dll
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\ref\arraysTwo.dll
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.pdb
+U:\patikaDev\arraysTwo\obj\Debug\net6.0\arraysTwo.genruntimeconfig.cache
