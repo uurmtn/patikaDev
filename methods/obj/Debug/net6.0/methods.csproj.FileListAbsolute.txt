@@ -1,0 +1,15 @@
+U:\patikaDev\methods\bin\Debug\net6.0\methods.exe
+U:\patikaDev\methods\bin\Debug\net6.0\methods.deps.json
+U:\patikaDev\methods\bin\Debug\net6.0\methods.runtimeconfig.json
+U:\patikaDev\methods\bin\Debug\net6.0\methods.dll
+U:\patikaDev\methods\bin\Debug\net6.0\ref\methods.dll
+U:\patikaDev\methods\bin\Debug\net6.0\methods.pdb
+U:\patikaDev\methods\obj\Debug\net6.0\methods.csproj.AssemblyReference.cache
+U:\patikaDev\methods\obj\Debug\net6.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\methods\obj\Debug\net6.0\methods.AssemblyInfoInputs.cache
+U:\patikaDev\methods\obj\Debug\net6.0\methods.AssemblyInfo.cs
+U:\patikaDev\methods\obj\Debug\net6.0\methods.csproj.CoreCompileInputs.cache
+U:\patikaDev\methods\obj\Debug\net6.0\methods.dll
+U:\patikaDev\methods\obj\Debug\net6.0\ref\methods.dll
+U:\patikaDev\methods\obj\Debug\net6.0\methods.pdb
+U:\patikaDev\methods\obj\Debug\net6.0\methods.genruntimeconfig.cache
