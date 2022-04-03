@@ -1,0 +1,15 @@
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\recursiveOrExtensionMethod.exe
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\recursiveOrExtensionMethod.deps.json
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\recursiveOrExtensionMethod.runtimeconfig.json
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\recursiveOrExtensionMethod.dll
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\ref\recursiveOrExtensionMethod.dll
+U:\patikaDev\recursiveOrExtensionMethod\bin\Debug\net6.0\recursiveOrExtensionMethod.pdb
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.csproj.AssemblyReference.cache
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.AssemblyInfoInputs.cache
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.AssemblyInfo.cs
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.csproj.CoreCompileInputs.cache
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.dll
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\ref\recursiveOrExtensionMethod.dll
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.pdb
+U:\patikaDev\recursiveOrExtensionMethod\obj\Debug\net6.0\recursiveOrExtensionMethod.genruntimeconfig.cache
