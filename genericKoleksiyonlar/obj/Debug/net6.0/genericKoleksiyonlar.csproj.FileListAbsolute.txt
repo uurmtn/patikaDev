@@ -1,0 +1,15 @@
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\bin\Debug\net6.0\genericKoleksiyonlar.exe
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\bin\Debug\net6.0\genericKoleksiyonlar.deps.json
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\bin\Debug\net6.0\genericKoleksiyonlar.runtimeconfig.json
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\bin\Debug\net6.0\genericKoleksiyonlar.dll
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\bin\Debug\net6.0\genericKoleksiyonlar.pdb
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.AssemblyInfo.cs
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.dll
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\refint\genericKoleksiyonlar.dll
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.pdb
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\genericKoleksiyonlar.genruntimeconfig.cache
+C:\Users\Ugur\Desktop\patikaDev-master\patikaDev-master\genericKoleksiyonlar\obj\Debug\net6.0\ref\genericKoleksiyonlar.dll
